@@ -1,6 +1,6 @@
-3d-piano-player
+3d-piano-player (forked)
 ===============
 
-3D Piano player demo. Uses three.js and MIDI.js
+A THREE.js piano loading skeleton. 
 
-See the demo live at http://www.borjamorales.com/3d-piano-player/
+See the actual demo live at http://www.borjamorales.com/3d-piano-player/.
